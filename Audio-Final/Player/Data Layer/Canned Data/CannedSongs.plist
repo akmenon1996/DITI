@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Songs</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Dancing Queen</string>
+			<key>mediaURL</key>
+			<string></string>
+			<key>coverArtURL</key>
+			<string>abba</string>
+			<key>duration</key>
+			<integer>120</integer>
+			<key>artist</key>
+			<string>ABBA</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Poker Face</string>
+			<key>mediaURL</key>
+			<string></string>
+			<key>coverArtURL</key>
+			<string>ladygaga</string>
+			<key>duration</key>
+			<integer>160</integer>
+			<key>artist</key>
+			<string>Lady Gaga</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Party Rock Anthem</string>
+			<key>mediaURL</key>
+			<string></string>
+			<key>coverArtURL</key>
+			<string>lmfao</string>
+			<key>duration</key>
+			<integer>181</integer>
+			<key>artist</key>
+			<string>LMFAO</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Party in the U.S.A.</string>
+			<key>mediaURL</key>
+			<string></string>
+			<key>coverArtURL</key>
+			<string>usa</string>
+			<key>duration</key>
+			<integer>144</integer>
+			<key>artist</key>
+			<string>Miley Cyrus</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Everybody (Backstreet&apos;s Back)</string>
+			<key>mediaURL</key>
+			<string></string>
+			<key>coverArtURL</key>
+			<string>boys</string>
+			<key>duration</key>
+			<integer>237</integer>
+			<key>artist</key>
+			<string>Backstreet Boys</string>
+		</dict>
+	</array>
+</dict>
+</plist>
